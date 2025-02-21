@@ -1,0 +1,14 @@
+<html>
+<head><title>404 Tidak Ditemukan</title></head>
+<tubuh>
+<center><h1>404 Tidak Ditemukan</h1></center>
+<hr><center>nginx/1.22.1</center>
+</tubuh>
+</html>
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+<!-- padding untuk menonaktifkan halaman kesalahan ramah MSIE dan Chrome -->
+
