@@ -239,99 +239,113 @@
             "country_name": "Events",
             "alpha_2_code": "EV",
             "alpha_3_code": "EVE",
-            "numeric": "1",
-            "emoji": null
+            "numeric_alpha": "1",
+            "emoji": null,
+            "numeric": "1"
         },
         {
             "country_name": "Movies",
             "alpha_2_code": "MI",
             "alpha_3_code": "MOV",
-            "numeric": "2",
-            "emoji": null
+            "numeric_alpha": "2",
+            "emoji": null,
+            "numeric": "2"
         },
         {
             "country_name": "Sports TV",
             "alpha_2_code": "SP",
             "alpha_3_code": "SPT",
-            "numeric": "3",
-            "emoji": null
+            "numeric_alpha": "3",
+            "emoji": null,
+            "numeric": "3"
         },
         {
             "country_name": "Brazil",
             "alpha_2_code": "BR",
             "alpha_3_code": "BRA",
-            "numeric": "76",
-            "emoji": "\ud83c\udde7\ud83c\uddf7"
+            "numeric_alpha": "76",
+            "emoji": null,
+            "numeric": "76"
         },
         {
             "country_name": "Kids",
             "alpha_2_code": "KD",
             "alpha_3_code": "KDS",
-            "numeric": "162",
-            "emoji": null
+            "numeric_alpha": "162",
+            "emoji": null,
+            "numeric": "162"
         },
         {
             "country_name": "Indonesia",
             "alpha_2_code": "ID",
             "alpha_3_code": "IDN",
-            "numeric": "360",
-            "emoji": null
+            "numeric_alpha": "360",
+            "emoji": null,
+            "numeric": "360"
         },
         {
             "country_name": "Japan",
             "alpha_2_code": "JP",
             "alpha_3_code": "JPN",
-            "numeric": "392",
-            "emoji": null
+            "numeric_alpha": "392",
+            "emoji": null,
+            "numeric": "392"
         },
         {
             "country_name": "South Korea",
             "alpha_2_code": "KR",
             "alpha_3_code": "KOR",
-            "numeric": "410",
-            "emoji": null
+            "numeric_alpha": "410",
+            "emoji": null,
+            "numeric": "410"
         },
         {
             "country_name": "Malaysia",
             "alpha_2_code": "MY",
             "alpha_3_code": "MYS",
-            "numeric": "458",
-            "emoji": null
+            "numeric_alpha": "458",
+            "emoji": null,
+            "numeric": "458"
         },
         {
             "country_name": "Saudi Arabia",
             "alpha_2_code": "SA",
             "alpha_3_code": "SAU",
-            "numeric": "682",
-            "emoji": null
+            "numeric_alpha": "682",
+            "emoji": null,
+            "numeric": "682"
         },
         {
             "country_name": "Singapore",
             "alpha_2_code": "SG",
             "alpha_3_code": "SGP",
-            "numeric": "702",
-            "emoji": null
+            "numeric_alpha": "702",
+            "emoji": null,
+            "numeric": "702"
         },
         {
             "country_name": "United Kingdom",
             "alpha_2_code": "GB",
             "alpha_3_code": "GBR",
-            "numeric": "826",
-            "emoji": null
+            "numeric_alpha": "826",
+            "emoji": null,
+            "numeric": "826"
         },
         {
             "country_name": "TVRI",
             "alpha_2_code": "RI",
             "alpha_3_code": "TVR",
-            "numeric": "902",
-            "emoji": null
+            "numeric_alpha": "902",
+            "emoji": null,
+            "numeric": "902"
         },
         {
             "country_name": "TV Lokal",
             "alpha_2_code": "LO",
             "alpha_3_code": "LOK",
-            "numeric": "909",
-            "emoji": null
+            "numeric_alpha": "909",
+            "emoji": null,
+            "numeric": "909"
         }
     ]
 }

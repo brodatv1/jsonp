@@ -3,6 +3,27 @@
     "country": "SG",
     "info": [
         {
+            "id": "529",
+            "name": "HBO (sg)",
+            "tagline": "Update v2.0.7 (Check Telegram)",
+            "hls": "https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd",
+            "namespace": "HBO Singapore",
+            "is_live": "f",
+            "is_movie": "f",
+            "subtitle": "",
+            "image": "data:image/png;base64,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",
+            "jenis": "dash-clearkey",
+            "premium": "t",
+            "alpha_2_code": "SG",
+            "country_name": "Singapore",
+            "t_stamp": "none",
+            "s_stamp": "none",
+            "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiT3Z0VG9tUTVPYzF4S1BwODdlMVRPZyIsImtpZCI6InBBZEhud2ROUTllWVI0d1NFdGxZZGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
+            "fake_event": "f",
+            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0\"}",
+            "header_license": "{\"x-data\":\"none\"}"
+        },
+        {
             "id": "533",
             "name": "HBO Cinemax (sg)",
             "tagline": "Update v2.0.7 (Check Telegram)",
@@ -61,27 +82,6 @@
             "t_stamp": "none",
             "s_stamp": "none",
             "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiRUhLeDVoSUd3NFdXQjVoUGh5NVVuQSIsImtpZCI6IlJ6K3IzQVdzVFp1VS9UVHpQM001VHcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
-            "fake_event": "f",
-            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0\"}",
-            "header_license": "{\"x-data\":\"none\"}"
-        },
-        {
-            "id": "529",
-            "name": "HBO (sg)",
-            "tagline": "Update v2.0.7 (Check Telegram)",
-            "hls": "https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd",
-            "namespace": "HBO Singapore",
-            "is_live": "f",
-            "is_movie": "f",
-            "subtitle": "",
-            "image": "data:image/png;base64,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",
-            "jenis": "dash-clearkey",
-            "premium": "t",
-            "alpha_2_code": "SG",
-            "country_name": "Singapore",
-            "t_stamp": "none",
-            "s_stamp": "none",
-            "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiT3Z0VG9tUTVPYzF4S1BwODdlMVRPZyIsImtpZCI6InBBZEhud2ROUTllWVI0d1NFdGxZZGcifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
             "fake_event": "f",
             "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0\"}",
             "header_license": "{\"x-data\":\"none\"}"
@@ -239,99 +239,113 @@
             "country_name": "Events",
             "alpha_2_code": "EV",
             "alpha_3_code": "EVE",
-            "numeric": "1",
-            "emoji": null
+            "numeric_alpha": "1",
+            "emoji": null,
+            "numeric": "1"
         },
         {
             "country_name": "Movies",
             "alpha_2_code": "MI",
             "alpha_3_code": "MOV",
-            "numeric": "2",
-            "emoji": null
+            "numeric_alpha": "2",
+            "emoji": null,
+            "numeric": "2"
         },
         {
             "country_name": "Sports TV",
             "alpha_2_code": "SP",
             "alpha_3_code": "SPT",
-            "numeric": "3",
-            "emoji": null
+            "numeric_alpha": "3",
+            "emoji": null,
+            "numeric": "3"
         },
         {
             "country_name": "Brazil",
             "alpha_2_code": "BR",
             "alpha_3_code": "BRA",
-            "numeric": "76",
-            "emoji": "\ud83c\udde7\ud83c\uddf7"
+            "numeric_alpha": "76",
+            "emoji": null,
+            "numeric": "76"
         },
         {
             "country_name": "Kids",
             "alpha_2_code": "KD",
             "alpha_3_code": "KDS",
-            "numeric": "162",
-            "emoji": null
+            "numeric_alpha": "162",
+            "emoji": null,
+            "numeric": "162"
         },
         {
             "country_name": "Indonesia",
             "alpha_2_code": "ID",
             "alpha_3_code": "IDN",
-            "numeric": "360",
-            "emoji": null
+            "numeric_alpha": "360",
+            "emoji": null,
+            "numeric": "360"
         },
         {
             "country_name": "Japan",
             "alpha_2_code": "JP",
             "alpha_3_code": "JPN",
-            "numeric": "392",
-            "emoji": null
+            "numeric_alpha": "392",
+            "emoji": null,
+            "numeric": "392"
         },
         {
             "country_name": "South Korea",
             "alpha_2_code": "KR",
             "alpha_3_code": "KOR",
-            "numeric": "410",
-            "emoji": null
+            "numeric_alpha": "410",
+            "emoji": null,
+            "numeric": "410"
         },
         {
             "country_name": "Malaysia",
             "alpha_2_code": "MY",
             "alpha_3_code": "MYS",
-            "numeric": "458",
-            "emoji": null
+            "numeric_alpha": "458",
+            "emoji": null,
+            "numeric": "458"
         },
         {
             "country_name": "Saudi Arabia",
             "alpha_2_code": "SA",
             "alpha_3_code": "SAU",
-            "numeric": "682",
-            "emoji": null
+            "numeric_alpha": "682",
+            "emoji": null,
+            "numeric": "682"
         },
         {
             "country_name": "Singapore",
             "alpha_2_code": "SG",
             "alpha_3_code": "SGP",
-            "numeric": "702",
-            "emoji": null
+            "numeric_alpha": "702",
+            "emoji": null,
+            "numeric": "702"
         },
         {
             "country_name": "United Kingdom",
             "alpha_2_code": "GB",
             "alpha_3_code": "GBR",
-            "numeric": "826",
-            "emoji": null
+            "numeric_alpha": "826",
+            "emoji": null,
+            "numeric": "826"
         },
         {
             "country_name": "TVRI",
             "alpha_2_code": "RI",
             "alpha_3_code": "TVR",
-            "numeric": "902",
-            "emoji": null
+            "numeric_alpha": "902",
+            "emoji": null,
+            "numeric": "902"
         },
         {
             "country_name": "TV Lokal",
             "alpha_2_code": "LO",
             "alpha_3_code": "LOK",
-            "numeric": "909",
-            "emoji": null
+            "numeric_alpha": "909",
+            "emoji": null,
+            "numeric": "909"
         }
     ]
 }
