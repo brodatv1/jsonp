@@ -300,7 +300,7 @@
             "id": "2636",
             "name": "LaLiga Spain [CH2]",
             "tagline": "Update v2.0.7 (Check Telegram)",
-            "hls": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd",
+            "hls": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd",
             "namespace": "Liga Spanyol [CH2]",
             "is_live": "t",
             "is_movie": "f",
@@ -312,9 +312,9 @@
             "country_name": "Events",
             "t_stamp": "1747587600",
             "s_stamp": "1747594800",
-            "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiME55ODEzSTd4QTN3dnpUSndKTFZIdyIsImtpZCI6IjNHbTJGWm9QbndwT0E3UC9rY3VzMVEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
+            "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiRkNSejdwSmRzTnNBZzhkS0Y0eUNtQSIsImtpZCI6Ik91YWtNTUc0UWc2aWdPTVhGRDJOT2cifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
             "fake_event": "f",
-            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0\"}",
+            "header_iptv": "{\"Referer\":\"https://visionplus.id/\",\"Origin\":\"https://visionplus.id\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0\"}",
             "header_license": "{\"x-data\":\"none\"}"
         },
         {
