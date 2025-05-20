@@ -192,6 +192,27 @@
             "header_license": "{\"x-data\":\"none\"}"
         },
         {
+            "id": "1435",
+            "name": "Basketball: NBA [CH1]",
+            "tagline": "Update v2.0.7 (Check Telegram)",
+            "hls": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+            "namespace": "National Basketball Association",
+            "is_live": "t",
+            "is_movie": "f",
+            "subtitle": "",
+            "image": "data:image/png;base64,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",
+            "jenis": "dash-clearkey",
+            "premium": "f",
+            "alpha_2_code": "EV",
+            "country_name": "Events",
+            "t_stamp": "1747787400",
+            "s_stamp": "1747798200",
+            "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiR3F6Z1gxalk3ZStXbC8xU3l3bjBRUSIsImtpZCI6ImJSY0lzWVhHeE5lemRnQlNESHpKUEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
+            "fake_event": "f",
+            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0\"}",
+            "header_license": "{\"x-data\":\"none\"}"
+        },
+        {
             "id": "1075",
             "name": "UEFA Europa League [CH1]",
             "tagline": "Update v2.0.7 (Check Telegram)",
