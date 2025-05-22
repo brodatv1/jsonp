@@ -6,7 +6,7 @@
             "id": "2858",
             "name": "Formula 1 Monaco [CH1]",
             "tagline": "Update v2.0.7 (Check Telegram)",
-            "hls": "https://12a001a90a8c45927f7710a6ee02e8e6.v.smtcdns.net/play1nm.hnyongshun.cn/live/ballbar_32280.m3u8",
+            "hls": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd",
             "namespace": "Formula 1 Monaco [CH1]",
             "is_live": "t",
             "is_movie": "f",
@@ -20,7 +20,7 @@
             "s_stamp": "1748163600",
             "url_license": "eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoidldJckRtRUNsZDQ3Qzh5NFVNeXFxZyIsImtpZCI6IkVHRytFdE1ESkhRbTdDWG9OcHNtUncifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==",
             "fake_event": "f",
-            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0\"}",
+            "header_iptv": "{\"Referer\":\"none\",\"Origin\":\"none\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0\"}",
             "header_license": "{\"x-data\":\"none\"}"
         },
         {
